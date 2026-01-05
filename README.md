@@ -1,16 +1,48 @@
+![Banner](./gitbackground.png)
+
 ## Hi there 👋
 
-<!--
-**sachin-wysbryx/sachin-wysbryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sachin RV
 
-Here are some ideas to get you started:
+🚀 Full Stack Developer | Next.js • TypeScript • MongoDB • PostgreSQL  
+📍 Bangalore, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- Full Stack Developer with experience in real-world applications
+- Built real-time voice & video calling systems
+- Worked with PostgreSQL and MongoDB in production apps
+- Interested in backend systems and scalable architecture
+
+---
+
+## 💼 Experience
+**Full Stack Intern — Wysbryx Technologies**
+- Developed user profile dashboards
+- Implemented voice & video calls using WebRTC
+- Designed REST APIs and database schemas
+
+---
+
+## 🚀 Projects
+### Chat-app
+- Real-time chating app 
+- Real-time voice & video calling platform
+- Tech: WebRTC, Node.js, React, MongoDB
+
+### Travelsys
+- Travel platform with dashboards, payments, bookings and horror
+- Tech: Next.js, PostgreSQL, MongoDB
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/sachin-rv-70a505293
+
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snow91108&theme=github-dark)
+
+
+
